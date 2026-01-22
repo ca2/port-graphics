@@ -11,3 +11,7 @@
 	path = clipper
 	url = ../../cpp-port/clipper
 	branch = main
+[submodule "poly2tri"]
+	path = poly2tri
+	url = ../../cpp-port/poly2tri
+	branch = main
